@@ -4,8 +4,8 @@
 
 * **Branch:** Computer Science and Engineering
 * **Institution:** Aditya College of engineering and technology
-* **Study period:** 20XX–20XX
-* **CGPA / Percentage:** Add if you wish to share it
+* **Study period:** 2025 - 2028
+* **CGPA / Percentage:** 9.04
 
 ## Relevant Coursework
 
