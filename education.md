@@ -1,18 +1,22 @@
 # Education
 
 ## Bachelor of Technology (B.Tech)
-- **Branch:** Computer Science and Engineering
-- **Institution:** Your College Name
-- **Study period:** 20XX–20XX
-- **CGPA / Percentage:** Add if you wish to share it
+
+* **Branch:** Computer Science and Engineering
+* **Institution:** Aditya College of engineering and technology
+* **Study period:** 20XX–20XX
+* **CGPA / Percentage:** Add if you wish to share it
 
 ## Relevant Coursework
-- Programming Fundamentals
-- Data Structures and Algorithms
-- Database Management Systems
-- Computer Networks
-- Software Engineering
+
+* Programming Fundamentals
+* Data Structures and Algorithms
+* Database Management Systems
+* Computer Networks
+* Software Engineering
 
 ## Achievements and Certifications
-- Add verified certifications, hackathons, awards, or academic achievements.
-- Include the year and issuing organisation where relevant.
+
+* Add verified certifications, hackathons, awards, or academic achievements.
+* Include the year and issuing organisation where relevant.
+
